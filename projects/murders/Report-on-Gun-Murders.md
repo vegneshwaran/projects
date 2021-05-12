@@ -17,10 +17,6 @@ library(tidyverse)
 
 and load the data we already wrangled:
 
-``` r
-load("rda/murders.rda")
-```
-
 ## Murder rate by state
 
 We note the large state to state variability by generating a barplot
